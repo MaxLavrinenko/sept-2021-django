@@ -19,5 +19,5 @@ from first.views import First, Second, Thrid
 
 urlpatterns = [
     # path('admin/', admin.site.urls),
-   
+
 ]
